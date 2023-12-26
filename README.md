@@ -50,20 +50,24 @@ All the following files are avilable in the 'script' directory.
 | File Name | Difficulty Devel | Description |
 | --- | --- | --- | 
 | script_1 | Beginner | This program Print Hello World using threading. |
-| script_2 | Beginner | This program adds two given numbers and prints the result. |
+| add_numbers.py | Beginner | This program adds two given numbers and prints the result. |
 | script_3 | Beginner | This program outputs default thread name when the thread is being executed. |
 | script_4 | Beginner | A Timer starts its work after a delay, and can be canceled at any point within that delay time period. |
 | script_4_1 | Beginner | This program prints 1 to 10 with threading module. |
 | script_4 | Beginner | This program handles timer function. |
-| script_5 | Beginner | This program creates five threads and each thread prints a string with a two-second interval. |
+| create_threads.py | Beginner | This program creates five threads and each thread prints a string with a two-second interval. |
 | script_6 | Beginner | This program takes a string input from user and prints the input in a text file. |
 | script_6_1 | Beginner | This program runs five times and each time the program takes two numbers as given input and prints sum of them. |
 | script_7 | TBD | TBD |
 | script_8 | Beginner | This program creates a thread, officially names it and tries to print the name. |
 | script_9 | Beginner | This program prints output of square and cube of a series of numbers. |
 | script_10 | TBD | TBD |
-| script_11 | Intermediate | This program tries to access the values of args and kwargs. |
+| args_values.py | Intermediate | This program tries to access the values of args and kwargs. |
 | script_12 | TBD | TBD |
+| count_active_threads.py | idk | from scripts_17.py |
+| current_date.py | idk | from scripts_21.py |
+
+
 
 
 How to run
